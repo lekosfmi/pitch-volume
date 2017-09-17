@@ -14,4 +14,4 @@ Make sure you have Ruby, version `2.3.1`, running on your computer.
 - Server: [Sinatra](http://www.sinatrarb.com/)
 - Deployment: [Heroku](https://dashboard.heroku.com/)
 
-###### Copyright(c) Vanielle Le
+###### Copyright(c) Vanielle Lee
